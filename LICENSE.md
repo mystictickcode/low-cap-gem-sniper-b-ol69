@@ -1,4 +1,4 @@
-# 
+# ultimate low cap gem sniper bot | private-RPC-nodes + auto-buy is the best low cap gem sniper bot, featuring private-RPC-nodes and auto-buy. Fast, smart, and optimized for MEV and
 
 
 
